@@ -1,0 +1,38 @@
+﻿ID_TipoPartida;Nombre_Tipo
+1;Upper Quarterfinals
+2;Upper Semifinals
+3;Upper Final
+4;Grand Final
+5;Lower Round 1
+6;Lower Round 2
+7;Lower Round 3
+8;Lower Final
+9;Opening (A)
+10;Winner's (A)
+11;Elimination (A)
+12;Decider (A)
+13;Opening (B)
+14;Winner's (B)
+15;Elimination (B)
+16;Decider (B)
+17;Opening (C)
+18;Winner's (C)
+19;Elimination (C)
+20;Decider (C)
+21;Opening (D)
+22;Winner's (D)
+23;Elimination (D)
+24;Decider (D)
+25;All Match Types
+26;Upper Round 1
+27;Week 1
+28;Week 2
+29;Week 3
+30;Week 4
+31;Week 5
+32;Round 1
+33;Round 2 (1-0)
+34;Round 2 (0-1)
+35;Round 3 (1-1)
+36;Round 3
+37;Lower Round 4
